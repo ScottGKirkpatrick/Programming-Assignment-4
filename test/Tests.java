@@ -1,6 +1,6 @@
 /*
  * Author: Scott Kirkpatrick, James Eaton
- * Date: 4/13/2018
+ * Date: 4/20/2018
  * Overview: Tests for the dynamic coin solving algorithm
  */
 
