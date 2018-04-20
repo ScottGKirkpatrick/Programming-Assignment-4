@@ -2,7 +2,7 @@
 
 
 /*
- * Authors: Scott Kirkpatrick
+ * Authors: Scott Kirkpatrick, James Eaton
  * Date: 4/20/18
  * Overview: Creates change for a value from a set of coins using dynamic programming methods
  */
