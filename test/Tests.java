@@ -1,21 +1,17 @@
 /*
- * Author: Scott Kirkpatrick
+ * Author: Scott Kirkpatrick, James Eaton
  * Date: 4/13/2018
- * Overview: Tests for the greedy algorithm.
+ * Overview: Tests for the dynamic coin solving algorithm
  */
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-/**
- *
- * @author z79x595
- */
 public class Tests {
     
     public Tests() {
     }
-    /*
+    
     @Test
     public void UScoinTest(){
         int CoinSet[] = {1,5,10,25};
@@ -46,7 +42,7 @@ public class Tests {
         int arr1[] = {11,23,23};
         assertArrayEquals(arr1, Dynamic.makeChange(CoinSet, 57));
     }
-    */
+    
     @Test
     public void WeirdcoinTest(){
         int CoinSet[] = {1,7,12,32};
